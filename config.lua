@@ -7,7 +7,7 @@ Config.defaultlang = "de_lang"
 Config.DeathLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -22,7 +22,7 @@ Config.DeathLogs = {
 Config.PickCharLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -37,7 +37,7 @@ Config.PickCharLogs = {
 Config.LeaveLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -52,7 +52,7 @@ Config.LeaveLogs = {
 Config.JoinLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -67,7 +67,7 @@ Config.JoinLogs = {
 Config.ResourceStartLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -82,7 +82,7 @@ Config.ResourceStartLogs = {
 Config.ResourceStopLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -97,7 +97,7 @@ Config.ResourceStopLogs = {
 Config.ChatLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -112,7 +112,7 @@ Config.ChatLogs = {
 Config.ReviveLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -127,7 +127,7 @@ Config.ReviveLogs = {
 Config.RespawnLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -142,7 +142,7 @@ Config.RespawnLogs = {
 Config.HealLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -157,7 +157,7 @@ Config.HealLogs = {
 Config.JobChangeLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -172,7 +172,7 @@ Config.JobChangeLogs = {
 Config.GroupChangeLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -187,7 +187,7 @@ Config.GroupChangeLogs = {
 Config.CreateCharLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -202,7 +202,7 @@ Config.CreateCharLogs = {
 Config.ItemUseLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -217,7 +217,7 @@ Config.ItemUseLogs = {
 Config.ItemCreateLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
@@ -232,7 +232,7 @@ Config.ItemCreateLogs = {
 Config.ItemRemoveLogs = {
     {
         WHActive = true,
-        WHLink = 'https://discord.com/api/webhooks/1345723282204266528/idb7KxrIBmZDto7cPgDMBUmpPEE7bHtWRsW65iGZV1rSW4z8oH5PDQUgrY-R3ePt_zc3',
+        WHLink = '',
         WHTitle = 'MMS-Logging:',
         WHColor = 16711680, -- red
         WHName = 'MMS-Logging:', -- name
